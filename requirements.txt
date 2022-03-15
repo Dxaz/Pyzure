@@ -1,0 +1,4 @@
+azure-identity==1.7.1
+azure-mgmt-compute==26.1.0
+azure-mgmt-network==19.3.0
+azure-mgmt-resource==20.1.0
